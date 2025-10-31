@@ -2,11 +2,11 @@
 
 This is a research-oriented code package that is primarily intended to allow readers to replicate the results of the article mentioned below and also encourage and accelerate further research on this topic:
 
-Croisfelt, V., Devoti, F., Saggese, F., Sciancalepore, V., Costa-Pérez, X., and Popovski, P., “An Orchestration Framework for Open System Models of Reconfigurable Intelligent Surfaces”, arXiv e-prints, 2023. doi:10.48550/arXiv.2304.10858.
+V. Croisfelt, F. Devoti, F. Saggese, V. Sciancalepore, X. Costa-Pérez and P. Popovski, "Autonomous RISs and Oblivious Base Stations: The Observer Effect and Its Mitigation," in IEEE Transactions on Wireless Communications, vol. 24, no. 6, pp. 5129-5145, June 2025, doi: 10.1109/TWC.2025.3546118.
 
-A pre-print version is available on: https://arxiv.org/abs/2304.10858.
+A pre-print version is available on arXiv: https://arxiv.org/abs/2304.10858.
 
-I hope this content helps in your research and contributes to building the precepts behind open science. Remarkably, to boost the idea of open science and further drive the evolution of science, I also motivate you to share your published results with the public.
+We hope this content helps in your research and contributes to building the precepts behind open science. Remarkably, to boost the idea of open science and further drive the evolution of science, I also motivate you to share your published results with the public.
 
 If you have any questions or if you have encountered any inconsistency, please do not hesitate to contact me via victorcroisfelt@gmail.com.
 
@@ -23,6 +23,19 @@ The code provided here can be used to simulate Figs. 6 and 7 of the paper. The c
 
 ## Citing this Repository and License
 This code is subject to the MIT license. If you use any part of this repository for research, please consider citing our aforementioned work.
+
+```bibtex
+@ARTICLE{10914507,
+  author={Croisfelt, Victor and Devoti, Francesco and Saggese, Fabio and Sciancalepore, Vincenzo and Costa-Pérez, Xavier and Popovski, Petar},
+  journal={IEEE Transactions on Wireless Communications}, 
+  title={Autonomous RISs and Oblivious Base Stations: The Observer Effect and Its Mitigation}, 
+  year={2025},
+  volume={24},
+  number={6},
+  pages={5129-5145},
+  keywords={Probes;Distortion;Human-robot interaction;Hardware;Complexity theory;Reconfigurable intelligent surfaces;Vectors;Remote control;Reflection;Real-time systems;Reconfigurable intelligent surface (RIS);intelligent reflective surface (IRS);hybrid reconfigurable intelligent surface (HRIS);massive multiple-input multiple-output (MIMO)},
+  doi={10.1109/TWC.2025.3546118}}
+```
 
 ## Acknowledgement
 This work was supported by the Villum Investigator Grant “WATER” from the Villum Fonden, Denmark.
