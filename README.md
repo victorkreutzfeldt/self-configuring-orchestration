@@ -34,7 +34,8 @@ This code is subject to the MIT license. If you use any part of this repository 
   number={6},
   pages={5129-5145},
   keywords={Probes;Distortion;Human-robot interaction;Hardware;Complexity theory;Reconfigurable intelligent surfaces;Vectors;Remote control;Reflection;Real-time systems;Reconfigurable intelligent surface (RIS);intelligent reflective surface (IRS);hybrid reconfigurable intelligent surface (HRIS);massive multiple-input multiple-output (MIMO)},
-  doi={10.1109/TWC.2025.3546118}}
+  doi={10.1109/TWC.2025.3546118}
+}
 ```
 
 ## Acknowledgement
